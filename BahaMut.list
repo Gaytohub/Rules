@@ -1,4 +1,6 @@
 # > BahaMut
-DOMAIN-SUFFIX,BAHAMUT.COM.TW,BahaMut
-DOMAIN-SUFFIX,GAMER.COM.TW,BahaMut
-HOST,GAMER2-CDS.CDN.HINET.NET,BahaMut
+USER-AGENT,Anime*,BahaMut
+DOMAIN-SUFFIX,bahamut.com.tw,BahaMut
+DOMAIN-SUFFIX,gamer.com.tw,BahaMut
+DOMAIN,gamer-cds.cdn.hinet.net,BahaMut
+DOMAIN,gamer2-cds.cdn.hinet.net,BahaMut
